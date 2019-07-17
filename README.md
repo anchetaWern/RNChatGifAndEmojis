@@ -1,6 +1,8 @@
 # RNChatGifAndEmojis
 A sample React Native chat app which allows the user to pick emojis and gifs.
 
+Full tutorial is available at: [https://pusher.com/tutorials/gifs-emojis-react-native-chat](https://pusher.com/tutorials/gifs-emojis-react-native-chat).
+
 ## Prerequisites
 
 -   React Native development environment
